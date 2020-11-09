@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1144&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=prakhar1144&style=plastic)
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakhar1144&show_icons=true&count_private=true&title_color=#800000" alt="Github stats" />
-
-# ![](https://komarev.com/ghpvc/?username=prakhar1144&color=red)
