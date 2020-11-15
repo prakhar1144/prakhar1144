@@ -3,11 +3,9 @@
 <!--
 **prakhar1144/prakhar1144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am Prakhar Pratyush, a second year student of Electrical Engineering Department NIT Hamirpur.
-
-## Tools and Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 [![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhar1144&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1144&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=prakhar1144&style=plastic)
 
