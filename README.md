@@ -16,3 +16,4 @@ I am Prakhar Pratyush, a sophomore at NIT Hamirpur.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=prakhar1144&hide=stars&theme=dark&count_private=true&include_all_commits=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1144&hide=java&layout=compact)
+![hits](https://komarev.com/ghpvc/?username=prakhar1144&color=red)
