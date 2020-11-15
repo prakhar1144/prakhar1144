@@ -1,6 +1,9 @@
 ## Hi there!
 
 I am Prakhar Pratyush, a Sophomore at NIT Hamirpur.
+<br>
+<br>
+![LinkedIn](https://img.shields.io/badge/-Prakhar-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-pratyush-9b93b2192/)(https://www.linkedin.com/in/prakhar-pratyush-9b93b2192/)
 
 ## Tools and Technologies
 
@@ -16,4 +19,4 @@ I am Prakhar Pratyush, a Sophomore at NIT Hamirpur.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=prakhar1144&hide=stars&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1144&hide=java&layout=compact)
-![hits](https://komarev.com/ghpvc/?username=prakhar1144&color=red)
+![hits](https://komarev.com/ghpvc/?username=prakhar1144&color=green)
