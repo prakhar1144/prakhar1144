@@ -15,5 +15,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=prakhar1144&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1144&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=prakhar1144&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1144&hide=java&langs_count=10)
