@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Prakhar Pratyush, a Sophomore at NIT Hamirpur.
+**I am Prakhar Pratyush, a Sophomore at NIT Hamirpur.**
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/-Prakhar-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-pratyush-9b93b2192/)](https://www.linkedin.com/in/prakhar-pratyush-9b93b2192/)
