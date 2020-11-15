@@ -1,6 +1,6 @@
 ## Hi there!
 
-It is Prakhar Pratyush.
+I am Prakhar Pratyush, a sophomore at NIT Hamirpur.
 
 ## Tools and Technologies
 
